@@ -9,7 +9,7 @@
   dependencies:
     tslib "^1.9.0"
 
-"@capacitor/ios@latest":
+"@capacitor/ios@^2.4.6":
   version "2.4.6"
   resolved "https://registry.yarnpkg.com/@capacitor/ios/-/ios-2.4.6.tgz#b46912d7feb3e416a91e20bdba3c7a9a82048cd0"
   integrity sha512-/IMmgVUgQgMm1Yv5CaWhZ9UTkVh5GFDX1vFZOB0bMu5v5jkolO/9SLyjbqogDNE2EIl9GuH6RSqZaOh2Xu2Ebg==
